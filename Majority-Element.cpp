@@ -1,24 +1,20 @@
 1class Solution {
 2public:
 3    int majorityElement(vector<int>& nums) {
-4        sort(nums.begin(),nums.end());
-5        int freq=1;
-6        int n=nums.size();
-7        if(n==1)
-8        return nums[0];
-9        for(int i=0;i<n-1;i++){
-10            if(nums[i+1]==nums[i]){
-11                freq++;
-12            }
-13            if(freq>(n/2)){
-14                return nums[i];
-15            }
-16            if(nums[i+1]!=nums[i])
-17            freq=1;
-18
-19
-20        }
-21        return {};
-22        
-23    }
-24};
+4        int freq=0,ans=0;
+5        //agr same mile too freq ++ ho rhi h
+6        //agr diff mile too --
+7        //at the end jo majority elsement h uski freq sbse jyada hi rhegi
+8        for(int i=0;i<nums.size();i++){
+9            if(freq==0)
+10            ans=nums[i];
+11            if(nums[i]==ans)
+12            freq++;
+13            else 
+14            freq--;
+15            
+16            
+17        }
+18        return ans;
+19    }
+20};
