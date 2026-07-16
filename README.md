@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0015-3sum](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
