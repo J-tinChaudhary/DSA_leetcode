@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0792-binary-search](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0792-binary-search) |
+| [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0075-sort-colors](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
