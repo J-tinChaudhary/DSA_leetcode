@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0792-binary-search](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
 ## Prefix Sum
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
+## Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
