@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0917-boats-to-save-people) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
