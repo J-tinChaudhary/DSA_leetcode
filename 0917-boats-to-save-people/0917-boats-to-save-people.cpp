@@ -1,6 +1,7 @@
 class Solution {
 public:
     int numRescueBoats(vector<int>& people, int limit) {
+        //MORE OPTIMIZED
         sort(people.begin(),people.end());
         int ans=0;
         int i=0;
@@ -12,14 +13,8 @@ public:
                 j--;
             }
             else {
-                if(people[i]>people[j]){
-                    ans++;
-                    i++;
-                }
-                else {
-                    ans++;
-                    j--;
-                }
+                ans++;
+                j--;
             }
         }
         return ans;
