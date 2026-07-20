@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0792-binary-search) |
+| [0917-boats-to-save-people](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0917-boats-to-save-people](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0016-3sum-closest](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0917-boats-to-save-people](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
