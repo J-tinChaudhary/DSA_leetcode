@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2634-minimum-common-value](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/2634-minimum-common-value) |
 ## Math
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/J-tinChaudhary/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
